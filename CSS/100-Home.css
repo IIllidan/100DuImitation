@@ -1,0 +1,42 @@
+#titleDiv {
+    width: 914px;
+    margin: auto;
+}
+#titleTop{
+    width: auto;
+    height: 30px;
+    background-color: #e9e9e9;
+}
+#headerLeftImg{
+    margin-top: 20px;
+}
+#headerRightImg{
+    margin-top: 30px;
+    float: right;
+}
+
+
+
+#leftContent{
+    margin: auto;
+    width: 320px;
+    float: left;
+}
+#leftVideo{
+    float: left;
+    width: 320px;
+    height: 240px;
+}
+#leftContent2{
+    width: auto;
+}
+#leftShowMoreTitle{
+    text-align: center;
+    float: left;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    font-size: 14px;
+    height: 20px;
+}
+
